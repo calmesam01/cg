@@ -36,6 +36,12 @@ public class Student {
 
 
 
+
+Inheritence
+
+
+
+
 class T {
     int id;
     String name;
@@ -59,8 +65,6 @@ class S extends T {
     
 }
 
-
-Inheritence
 
 public class Student {
 
